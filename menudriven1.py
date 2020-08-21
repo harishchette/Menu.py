@@ -4,7 +4,7 @@ import os
 
 print("enter the number , that  you wanna choose")
 
-print("1.chrome .   2.notepad     3.paint     4.vlc    5.python    6.commandprmpt     7.action    8.explore     9.calculator    10.calender    11.camera    12.candycrush    13.projections   14.calculator   15.drawboardpdf   16.facebook 17.feedback   18.help    19.groovemusic    20.gmail    21.maps   22.messenger   23.microsoftedge 24.microsoftnews 25.minecraft 26.realitycamera     27.realityportal     28.onenote   29.photos  30.movies   31.setting    32.weather    33.screensnip    34.twitter    35.recorder    36.tips   37.smartglass    38.widowsettings ")
+print("1.chrome .   2.notepad     3.paint     4.vlc    5.python    6.commandprmpt     7.action    8.explore     9.calculator    10.calender    11.camera    12.candycrush    13.projections   14.calculator   15.drawboardpdf   16.facebook 17.feedback   18.help    19.groovemusic    20.gmail    21.maps   22.messenger   23.microsoftedge 24.microsoftnews 25.minecraft 26.realitycamera     27.realityportal     28.onenote   29.photos  30.movies   31.setting    32.weather    33.screensnip    34.twitter    35.recorder    36.tips   37.smartglass    38.widowsettings   0. TO_EXIT")
 
 
 while True :
